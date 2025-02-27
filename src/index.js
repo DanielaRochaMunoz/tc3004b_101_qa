@@ -14,3 +14,4 @@ function resetFields() {
   document.getElementById ("operator").value = "+"; 
   document.getElementById ("result").innerText = "Result: ";
 }
+
