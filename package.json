@@ -1,0 +1,9 @@
+{
+  "name": "tests",
+  "dependencies": {
+    "selenium-webdriver": "^4.28.1"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
